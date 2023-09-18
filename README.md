@@ -1,6 +1,6 @@
 # Scot MacDonald
 <img align="left" src="https://orhun.dev/img/crow.png">
-## Former graphic designer now immersed in the world of development. Crafting lines of code with the same precision as pixels. Combining design aesthetics with technical proficiency to create functional and visually pleasing digital experiences.
+Former graphic designer now immersed in the world of development. Crafting lines of code with the same precision as pixels. Combining design aesthetics with technical proficiency to create functional and visually pleasing digital experiences.
 
 
 
