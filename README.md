@@ -5,23 +5,11 @@
 - 📫 How to reach me ...
 -	**bold text**
 
-- | Header | Title |
-- | Paragraph | Text |
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-
-
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-
-
-- First item
-- Second item
-- Third item
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 <!---
 Scot-MacDonald/Scot-MacDonald is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
