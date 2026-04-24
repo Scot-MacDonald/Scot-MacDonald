@@ -1,5 +1,6 @@
 # Scot MacDonald
 <img align="left" src="https://orhun.dev/img/crow.png">
+<br clear="left"/>
 
 ## Bio
 
