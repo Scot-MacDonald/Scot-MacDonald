@@ -15,7 +15,7 @@ Former graphic designer now immersed in the world of development. Crafting lines
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
 
 
-<!---
+<!--
 Scot-MacDonald/Scot-MacDonald is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+-->
